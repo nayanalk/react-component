@@ -18,44 +18,44 @@ const menuData = [
       {
         menuTitle: "Dashboard",
         menuIcon: dashboard,
-        menuUrl: "/dashboard",
+        menuUrl: "/",
       },
       {
         menuTitle: "Org",
         menuIcon: org,
-        menuUrl: "/org",
+        menuUrl: "/",
       },
       {
         menuTitle: "Calender",
         menuIcon: calender,
-        menuUrl: "/calender",
+        menuUrl: "/",
       },
       {
         menuTitle: "Parking",
         menuIcon: parking,
-        menuUrl: "/park",
+        menuUrl: "/",
       },
       {
         menuTitle: "Recruit",
         menuIcon: recruit,
-        menuUrl: "/recruit",
+        menuUrl: "/",
       },
       {
         menuTitle: "Messages",
         menuIcon: mesage,
-        menuUrl: "/inbox",
+        menuUrl: "/",
       },
     ],
     leftBottom: [
       {
         menuTitle: "Help",
         menuIcon: help,
-        menuUrl: "/help",
+        menuUrl: "/",
       },
       {
         menuTitle: "Settings",
         menuIcon: settings,
-        menuUrl: "/settings",
+        menuUrl: "/",
       },
     ],
   },
