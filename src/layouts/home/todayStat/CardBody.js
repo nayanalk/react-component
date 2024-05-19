@@ -6,7 +6,7 @@ import TimeCounter from "../../../components/todayStat/TimeCounter";
 export default function CardBody() {
   return (
     <>
-      <div style={{ display: "flex" }}>
+      <div style={{ display: "flex", padding: "1rem" }}>
         <div>
           <TodayStatContent />
           <TimeCounter />

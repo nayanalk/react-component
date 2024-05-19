@@ -2,7 +2,7 @@ import React from "react";
 
 export default function MenuItem({ title, icon, url }) {
   return (
-    <li>
+    <li style={{ listStyle: "none" }}>
       <a href={url}>
         <span>
           <img src={icon} alt={title} />
